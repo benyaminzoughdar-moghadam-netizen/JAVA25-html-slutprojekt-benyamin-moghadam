@@ -1,0 +1,11 @@
+- [ ] Startsida med minst 3 projekt (bild + rubrik)
+- [ ] Om mig-sida
+- [ ] Kontaktsida med formulär
+- [ ] Tre projektsidor med hero + 3 bilder + beskrivning
+- [ ] Navbar + Footer på alla sidor
+- [ ] Reset-fil + vars + transitions + flexbox
+- [ ] Responsive rules (media queries)
+- [ ] Bilder som skalas rätt (object-fit)
+- [ ] Använd minst en Bootstrap-komponent (t.ex. navigation)
+- [ ] Publicerad på GitHub Pages
+- [ ] Inlämning i Classroom med repo + live-länk

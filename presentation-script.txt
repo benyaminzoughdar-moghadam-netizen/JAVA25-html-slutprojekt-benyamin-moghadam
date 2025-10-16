@@ -1,0 +1,10 @@
+Hej! Jag heter Benyamin Moghadam och det här är min portfolio.
+
+1) Jag visar startsidan och klickar igenom galleriet. (~1 min)
+2) Jag öppnar Projekt 1 och visar hero-bild och thumbnails. (~2 min)
+   - Förklarar vad projektet gör och vilka tekniker jag använt.
+3) Jag beskriver en specifik utmaning i HTML/CSS och hur jag löste den. (~3 min)
+   - Exempel: Jag hade problem att få tre thumbnails att behålla proportioner i mobilen. Lösning: använde object-fit: cover; samt media queries som bytte layout till kolumn på <600px.
+4) Reflektion: Vad var roligast? Vad skulle jag göra annorlunda i processen? (~2 min)
+
+Tack — frågor?
