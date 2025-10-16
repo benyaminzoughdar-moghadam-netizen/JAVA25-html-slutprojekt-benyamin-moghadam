@@ -1,7 +1,6 @@
 # JAVA25-html-slutprojekt-benyamin-moghadam
 
-Den här mappen innehåller en färdig portfolio för Benyamin Moghadam — mörk tema, svenska.
-
+Den här mappen innehåller en färdig portfolio.
 ## Inlämning
 - Repo namn: `JAVA25-html-slutprojekt-benyamin-moghadam`
 - Publicera med GitHub Pages (Settings → Pages → Branch: main → /root)
